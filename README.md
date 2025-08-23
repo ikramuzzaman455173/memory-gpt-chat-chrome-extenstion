@@ -18,7 +18,6 @@
 - [🧪 Testing](#-testing)
 - [🎥 Video Overview](#-video-overview)
   - [Chrome Setup Video](#chrome-setup-video)
-  - [Android Setup Video](#android-setup-video)
 - [❓ Troubleshooting](#-troubleshooting)
 - [📜 Changelog](#-changelog)
 - [📄 License](#-license)
@@ -109,7 +108,7 @@
 ## 🧪 Testing
 Here are some sample JSON datasets for testing purposes:
 
-- **Demo 5000 Chats (JSON)** – [Download here](https://raw.githubusercontent.com/ikramuzzaman455173/memory-gpt-chat-chrome-extenstion/main/demo_chats_5000.json)
+- **Demo 5000 Chats (JSON)** – [Download here](https://github.com/ikramuzzaman455173/memory-gpt-chat-chrome-extenstion/raw/main/demo_chats_5000.json)
   Contains **5,000 sample chat records** in JSON format. Useful for performance benchmarking, large-scale parsing, and validating data handling logic.
 
 Import via **Import** button.
@@ -121,16 +120,12 @@ Import via **Import** button.
 ### Chrome Setup Video
 👉 [Watch Chrome setup overview](https://example.com/chrome-setup-video) *(replace with your YouTube/GDrive link)*
 
-### Android Setup Video
-👉 [Watch Android setup overview](https://example.com/android-setup-video) *(replace with your YouTube/GDrive link)*
-
 ---
 
 ## ❓ Troubleshooting
 - **Save not working** → must be on `chatgpt.com/c/...`.
 - **Storage full** → Export then Clear All.
 - **Progress bar empty** → with few chats (<400) usage is <1%.
-- **Android** → use Kiwi/Yandex, not Chrome.
 
 ---
 

@@ -108,7 +108,7 @@
 ## 🧪 Testing
 Here are some sample JSON datasets for testing purposes:
 
-- **Demo 5000 Chats (JSON)** – [Download here](https://github.com/ikramuzzaman455173/memory-gpt-chat-chrome-extenstion/raw/main/demo_chats_5000.json)
+- **Demo 5000 Chats (JSON)** – [Download here](https://github.com/ikramuzzaman455173/memory-gpt-chat-chrome-extenstion/raw/main/demo_chats_5000.zip)
   Contains **5,000 sample chat records** in JSON format. Useful for performance benchmarking, large-scale parsing, and validating data handling logic.
 
 Import via **Import** button.

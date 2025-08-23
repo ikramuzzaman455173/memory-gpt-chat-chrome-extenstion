@@ -11,7 +11,6 @@
 - [✨ Features](#-features)
 - [📦 Installation](#-installation)
   - [Chrome Setup](#chrome-setup)
-  - [Android Setup](#android-setup)
 - [🚀 Usage](#-usage)
 - [🔐 Privacy & Permissions](#-privacy--permissions)
 - [⚡ Storage Details](#-storage-details)
@@ -62,17 +61,6 @@
 4. Click **Load unpacked** → select the project folder.
 5. Pin 📌 the extension from the toolbar.
 
-### Android Setup
-Chrome mobile doesn’t support extensions. Use:
-- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
-- [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser)
-
-Steps:
-1. Install Kiwi/Yandex.
-2. Open Extensions → Enable **Developer mode**.
-3. **Load Unpacked** → choose project folder.
-4. Extension works the same as desktop.
-
 ---
 
 ## 🚀 Usage
@@ -119,9 +107,10 @@ Steps:
 ---
 
 ## 🧪 Testing
-Sample JSON test files:
-- [demo_chats.json](sandbox:/mnt/data/demo_chats.json) (50 chats)
-- [demo_chats_5000.json](sandbox:/mnt/data/demo_chats_5000.json) (5000 chats)
+Here are some sample JSON datasets for testing purposes:
+
+- **Demo 5000 Chats (JSON)** – [Download here](https://raw.githubusercontent.com/ikramuzzaman455173/memory-gpt-chat-chrome-extenstion/main/demo_chats_5000.json)
+  Contains **5,000 sample chat records** in JSON format. Useful for performance benchmarking, large-scale parsing, and validating data handling logic.
 
 Import via **Import** button.
 

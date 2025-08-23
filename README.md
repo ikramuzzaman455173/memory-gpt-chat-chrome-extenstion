@@ -1,4 +1,4 @@
-![MemoryGpt Chat Chrome extenstion](https://github.com/user-attachments/assets/dfca4b72-4b8c-46c9-81d5-e5df8b888d40)
+![MemoryGpt Chat Chrome extenstion](https://github.com/user-attachments/assets/ab8544c1-d5bf-4a1d-9820-c75780a44d19)
 
 # 🧠 Memory GPT Chat – Chrome Extension
 

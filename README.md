@@ -117,8 +117,9 @@ Import via **Import** button.
 
 ## 🎥 Video Overview
 
-### Chrome Setup Video
-👉 [Watch Chrome setup overview](https://example.com/chrome-setup-video) *(replace with your YouTube/GDrive link)*
+📺 **Watch this short demo video** showing how to install and use the extension:
+
+[▶️ Watch the Tutorial](https://github.com/user-attachments/assets/a9cec4ee-3cae-4127-8cdc-5bfefdc91397)
 
 ---
 
@@ -141,4 +142,3 @@ Import via **Import** button.
 
 ## 📄 License
 MIT License © 2025 [Md. Ikramuzzaman](https://github.com/ikramuzzaman455173)
-

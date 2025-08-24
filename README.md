@@ -11,13 +11,13 @@
 - [✨ Features](#-features)
 - [📦 Installation](#-installation)
   - [Chrome Setup](#chrome-setup)
+- [🎥 Video Overview](#-video-overview)
+  - [Chrome Setup Video](#chrome-setup-video)
 - [🚀 Usage](#-usage)
 - [🔐 Privacy & Permissions](#-privacy--permissions)
 - [⚡ Storage Details](#-storage-details)
 - [🛠 Development](#-development)
 - [🧪 Testing](#-testing)
-- [🎥 Video Overview](#-video-overview)
-  - [Chrome Setup Video](#chrome-setup-video)
 - [❓ Troubleshooting](#-troubleshooting)
 - [📜 Changelog](#-changelog)
 - [📄 License](#-license)
@@ -59,6 +59,16 @@
 3. Enable **Developer mode** (top-right).
 4. Click **Load unpacked** → select the project folder.
 5. Pin 📌 the extension from the toolbar.
+
+---
+
+## 🎥 Video Overview
+
+### Chrome Setup Video
+
+📺 **Watch this short demo video** showing how to install and use the extension:
+
+[▶️ Watch the Tutorial](https://github.com/user-attachments/assets/a9cec4ee-3cae-4127-8cdc-5bfefdc91397)
 
 ---
 
@@ -114,12 +124,6 @@ Here are some sample JSON datasets for testing purposes:
 Import via **Import** button.
 
 ---
-
-## 🎥 Video Overview
-
-📺 **Watch this short demo video** showing how to install and use the extension:
-
-[▶️ Watch the Tutorial](https://github.com/user-attachments/assets/a9cec4ee-3cae-4127-8cdc-5bfefdc91397)
 
 ---
 
